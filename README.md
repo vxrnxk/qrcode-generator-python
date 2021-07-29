@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 # qrcode-generator-python
 QR Code Generator made with Python
 
